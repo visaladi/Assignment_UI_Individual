@@ -1,0 +1,58 @@
+C:\Users\Sachitha\Documents\3rd Semester\EE3250\Visual Studio\Desktop UI Sachi\obj\Debug\net7.0-windows\Desktop UI Sachi.csproj.AssemblyReference.cache
+C:\Users\Sachitha\Documents\3rd Semester\EE3250\Visual Studio\Desktop UI Sachi\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Sachitha\Documents\3rd Semester\EE3250\Visual Studio\Desktop UI Sachi\obj\Debug\net7.0-windows\Views\StudentsView.g.cs
+C:\Users\Sachitha\Documents\3rd Semester\EE3250\Visual Studio\Desktop UI Sachi\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Sachitha\Documents\3rd Semester\EE3250\Visual Studio\Desktop UI Sachi\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sachitha\Documents\3rd Semester\EE3250\Visual Studio\Desktop UI Sachi\obj\Debug\net7.0-windows\Desktop UI Sachi_MarkupCompile.cache
+C:\Users\Sachitha\Documents\3rd Semester\EE3250\Visual Studio\Desktop UI Sachi\obj\Debug\net7.0-windows\Desktop UI Sachi_MarkupCompile.lref
+C:\Users\Sachitha\Documents\3rd Semester\EE3250\Visual Studio\Desktop UI Sachi\obj\Debug\net7.0-windows\Views\StudentsView.baml
+C:\Users\Sachitha\Documents\3rd Semester\EE3250\Visual Studio\Desktop UI Sachi\obj\Debug\net7.0-windows\Desktop UI Sachi.dll
+C:\Users\Sachitha\Documents\3rd Semester\EE3250\Visual Studio\Desktop UI Sachi\obj\Debug\net7.0-windows\refint\Desktop UI Sachi.dll
+C:\Users\Sachitha\Documents\3rd Semester\EE3250\Visual Studio\Desktop UI Sachi\obj\Debug\net7.0-windows\Desktop UI Sachi.pdb
+C:\Users\Sachitha\Documents\3rd Semester\EE3250\Visual Studio\Desktop UI Sachi\bin\Debug\net7.0-windows\Desktop UI Sachi.exe
+C:\Users\Sachitha\Documents\3rd Semester\EE3250\Visual Studio\Desktop UI Sachi\bin\Debug\net7.0-windows\Desktop UI Sachi.deps.json
+C:\Users\Sachitha\Documents\3rd Semester\EE3250\Visual Studio\Desktop UI Sachi\bin\Debug\net7.0-windows\Desktop UI Sachi.runtimeconfig.json
+C:\Users\Sachitha\Documents\3rd Semester\EE3250\Visual Studio\Desktop UI Sachi\bin\Debug\net7.0-windows\Desktop UI Sachi.dll
+C:\Users\Sachitha\Documents\3rd Semester\EE3250\Visual Studio\Desktop UI Sachi\bin\Debug\net7.0-windows\Desktop UI Sachi.pdb
+C:\Users\Sachitha\Documents\3rd Semester\EE3250\Visual Studio\Desktop UI Sachi\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Sachitha\Documents\3rd Semester\EE3250\Visual Studio\Desktop UI Sachi\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Sachitha\Documents\3rd Semester\EE3250\Visual Studio\Desktop UI Sachi\obj\Debug\net7.0-windows\Desktop UI Sachi.g.resources
+C:\Users\Sachitha\Documents\3rd Semester\EE3250\Visual Studio\Desktop UI Sachi\obj\Debug\net7.0-windows\Desktop UI Sachi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sachitha\Documents\3rd Semester\EE3250\Visual Studio\Desktop UI Sachi\obj\Debug\net7.0-windows\Desktop UI Sachi.AssemblyInfoInputs.cache
+C:\Users\Sachitha\Documents\3rd Semester\EE3250\Visual Studio\Desktop UI Sachi\obj\Debug\net7.0-windows\Desktop UI Sachi.AssemblyInfo.cs
+C:\Users\Sachitha\Documents\3rd Semester\EE3250\Visual Studio\Desktop UI Sachi\obj\Debug\net7.0-windows\Desktop UI Sachi.csproj.CoreCompileInputs.cache
+C:\Users\Sachitha\Documents\3rd Semester\EE3250\Visual Studio\Desktop UI Sachi\obj\Debug\net7.0-windows\Desktop UI Sachi.csproj.CopyComplete
+C:\Users\Sachitha\Documents\3rd Semester\EE3250\Visual Studio\Desktop UI Sachi\obj\Debug\net7.0-windows\Desktop UI Sachi.genruntimeconfig.cache
+C:\Users\Sachitha\Documents\3rd Semester\EE3250\Visual Studio\Desktop UI Sachi\obj\Debug\net7.0-windows\ref\Desktop UI Sachi.dll
+C:\Users\Sachitha\Documents\3rd Semester\EE3250\Visual Studio\Desktop UI Sachi\obj\Debug\net7.0-windows\Views\AddEditStudentView.g.cs
+C:\Users\Sachitha\Documents\3rd Semester\EE3250\Visual Studio\Desktop UI Sachi\obj\Debug\net7.0-windows\Views\AddEditStudentView.baml
+C:\Users\Sachitha\Documents\3rd Semester\EE3250\Visual Studio\Desktop UI Sachi\obj\Debug\net7.0-windows\App.baml
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\bin\Debug\net7.0-windows\Desktop UI Sachi.exe
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\bin\Debug\net7.0-windows\Desktop UI Sachi.deps.json
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\bin\Debug\net7.0-windows\Desktop UI Sachi.runtimeconfig.json
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\bin\Debug\net7.0-windows\Desktop UI Sachi.dll
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\bin\Debug\net7.0-windows\Desktop UI Sachi.pdb
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\Desktop UI Sachi.csproj.AssemblyReference.cache
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\Views\AddEditStudentView.g.cs
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\Views\StudentsView.g.cs
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\Desktop UI Sachi_MarkupCompile.cache
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\Desktop UI Sachi_MarkupCompile.lref
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\App.baml
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\Views\AddEditStudentView.baml
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\Views\StudentsView.baml
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\Desktop UI Sachi.g.resources
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\Desktop UI Sachi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\Desktop UI Sachi.AssemblyInfoInputs.cache
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\Desktop UI Sachi.AssemblyInfo.cs
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\Desktop UI Sachi.csproj.CoreCompileInputs.cache
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\Desktop UI Sachi.csproj.CopyComplete
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\Desktop UI Sachi.dll
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\refint\Desktop UI Sachi.dll
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\Desktop UI Sachi.pdb
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\Desktop UI Sachi.genruntimeconfig.cache
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\ref\Desktop UI Sachi.dll

@@ -1,0 +1,58 @@
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\bin\Debug\net7.0-windows\Assignment_UI.exe
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\bin\Debug\net7.0-windows\Assignment_UI.deps.json
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\bin\Debug\net7.0-windows\Assignment_UI.runtimeconfig.json
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\bin\Debug\net7.0-windows\Assignment_UI.dll
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\bin\Debug\net7.0-windows\Assignment_UI.pdb
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\Assignment_UI.csproj.AssemblyReference.cache
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\Views\AddEditStudentView.g.cs
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\Views\StudentsView.g.cs
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\Assignment_UI_MarkupCompile.cache
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\Assignment_UI_MarkupCompile.lref
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\App.baml
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\Views\AddEditStudentView.baml
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\Views\StudentsView.baml
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\Assignment_UI.g.resources
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\Assignment_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\Assignment_UI.AssemblyInfoInputs.cache
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\Assignment_UI.AssemblyInfo.cs
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\Assignment_UI.csproj.CoreCompileInputs.cache
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\Assignment_UI.csproj.CopyComplete
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\Assignment_UI.dll
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\refint\Assignment_UI.dll
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\Assignment_UI.pdb
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\Assignment_UI.genruntimeconfig.cache
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Desktop UI Sachi\obj\Debug\net7.0-windows\ref\Assignment_UI.dll
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Assignment_UI\obj\Debug\net7.0-windows\Assignment_UI.csproj.AssemblyReference.cache
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Assignment_UI\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Assignment_UI\obj\Debug\net7.0-windows\Views\AddEditStudentView.g.cs
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Assignment_UI\obj\Debug\net7.0-windows\Views\StudentsView.g.cs
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Assignment_UI\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Assignment_UI\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Assignment_UI\obj\Debug\net7.0-windows\Assignment_UI_MarkupCompile.cache
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Assignment_UI\obj\Debug\net7.0-windows\Assignment_UI_MarkupCompile.lref
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Assignment_UI\obj\Debug\net7.0-windows\Assignment_UI.dll
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Assignment_UI\obj\Debug\net7.0-windows\refint\Assignment_UI.dll
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Assignment_UI\obj\Debug\net7.0-windows\Assignment_UI.pdb
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Assignment_UI\bin\Debug\net7.0-windows\Assignment_UI.exe
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Assignment_UI\bin\Debug\net7.0-windows\Assignment_UI.deps.json
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Assignment_UI\bin\Debug\net7.0-windows\Assignment_UI.runtimeconfig.json
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Assignment_UI\bin\Debug\net7.0-windows\Assignment_UI.dll
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Assignment_UI\bin\Debug\net7.0-windows\Assignment_UI.pdb
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Assignment_UI\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Assignment_UI\obj\Debug\net7.0-windows\App.baml
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Assignment_UI\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Assignment_UI\obj\Debug\net7.0-windows\Views\AddEditStudentView.baml
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Assignment_UI\obj\Debug\net7.0-windows\Views\StudentsView.baml
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Assignment_UI\obj\Debug\net7.0-windows\Assignment_UI.g.resources
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Assignment_UI\obj\Debug\net7.0-windows\Assignment_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Assignment_UI\obj\Debug\net7.0-windows\Assignment_UI.AssemblyInfoInputs.cache
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Assignment_UI\obj\Debug\net7.0-windows\Assignment_UI.AssemblyInfo.cs
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Assignment_UI\obj\Debug\net7.0-windows\Assignment_UI.csproj.CoreCompileInputs.cache
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Assignment_UI\obj\Debug\net7.0-windows\Assignment_UI.csproj.CopyComplete
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Assignment_UI\obj\Debug\net7.0-windows\Assignment_UI.genruntimeconfig.cache
+C:\Users\visal Adikari\OneDrive\Desktop\Employee\Assignment_UI\obj\Debug\net7.0-windows\ref\Assignment_UI.dll
